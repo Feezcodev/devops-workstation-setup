@@ -1,0 +1,45 @@
+=== DEVOPS WORKSTATION TOOLING VERIFICATION REPORT ===
+Date: Wed Aug  5 10:51:49 WCAST 2026
+git version 2.54.0.windows.1
+1.131.0
+e4c7e7b1d6d060162f4aa7f8225271b67ce1df75
+x64
+Docker version 29.6.1, build 8900f1d
+minikube version: v1.38.1
+commit: c93a4cb9311efc66b90d33ea03f75f2c4120e9b0
+Client Version: v1.36.1
+Kustomize Version: v5.8.1
+version.BuildInfo{Version:"v4.2.3", GitCommit:"43e8b7feece8beb0fcba47059ec9b522fd929a64", GitTreeState:"clean", GoVersion:"go1.26.5", KubeClientVersion:"v1.36"}
+v24.19.0
+jq-1.8.2
+aws-cli/2.36.16 Python/3.14.6 Windows/10 exe/AMD64
+azure-cli                         2.89.0
+
+core                              2.89.0
+telemetry                          1.1.0
+
+Dependencies:
+msal                              1.36.0
+azure-mgmt-resource               24.0.0
+
+Python location 'C:\Program Files\Microsoft SDKs\Azure\CLI2\python.exe'
+Config directory 'C:\Users\Hp\.azure'
+Extensions directory 'C:\Users\Hp\.azure\cliextensions'
+
+Python (Windows) 3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]
+
+Legal docs and information: aka.ms/AzureCliLegal
+
+
+Terraform v1.15.8
+on windows_amd64
+ansible [core 2.20.1]
+  config file = None
+  configured module search path = ['/home/feezco/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
+  ansible python module location = /usr/lib/python3/dist-packages/ansible
+  ansible collection location = /home/feezco/.ansible/collections:/usr/share/ansible/collections
+  executable location = /usr/bin/ansible
+  python version = 3.14.4 (main, Jun 18 2026, 14:25:02) [GCC 15.2.0] (/usr/bin/python3)
+  jinja version = 3.1.6
+  pyyaml version = 6.0.3 (with libyaml v0.2.5)
+0.53.1
