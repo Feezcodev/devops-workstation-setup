@@ -40,3 +40,8 @@ This document outlines the package management strategy, environment configuratio
 ### Issue 3: Missing Global `npm` Binaries
 * **Cause:** Global npm packages were saved in `%AppData%\npm`, which was not linked in Git Bash.
 * **Resolution:** Registered `/c/Users/Hp/AppData/Roaming/npm` in `~/.bashrc`.## Verification Status: Complete
+
+## Cloud Account Verification
+- GitHub Profile Screenshot: Added
+- AWS Console Screenshot: Added
+- Azure Portal Screenshot: Added
